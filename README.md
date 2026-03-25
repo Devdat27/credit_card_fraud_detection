@@ -134,7 +134,7 @@ Fraud Risk Intelligence: https://github.com/Devdat27/credit_card_fraud_detection
 
 ## 🌐 Tableau File Link
 
-👉 *(Add your Tableau File link here)*
+👉 https://github.com/Devdat27/credit_card_fraud_detection/blob/main/Business%20Intelligence/Fraud%20and%20Model%20Analysis%20Story.twbx
 
 ---
 
