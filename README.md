@@ -125,7 +125,8 @@ The dataset is highly imbalanced (~0.17% fraud), so SMOTE was used to:
 
 ## 📷 Project Preview
 
-*(Add screenshots of dashboards here)*
+Overview: https://github.com/Devdat27/credit_card_fraud_detection/blob/main/images/Overview%20Dashboard.png
+
 
 ---
 
