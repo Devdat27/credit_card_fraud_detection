@@ -8,6 +8,14 @@ It focuses on identifying fraudulent transactions from highly imbalanced data an
 
 ---
 
+## Data
+
+* creditcard.csv (Python Code Data)
+* model_comparison_summary.csv (Tableau Data)
+* final_scored_transactions.csv (Tableau Data)
+
+---
+
 ## 🎯 Objectives
 
 * Detect fraudulent transactions using machine learning
